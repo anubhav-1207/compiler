@@ -1,0 +1,3 @@
+log("Hello world")
+int x = a;
+log(a)
